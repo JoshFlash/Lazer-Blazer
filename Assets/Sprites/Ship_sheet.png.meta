@@ -1,0 +1,308 @@
+fileFormatVersion: 2
+guid: 02a4fd04166eab44682565e94db7f533
+timeCreated: 1485227797
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Grey_Asteroid
+    21300002: Brown_Asteroid
+    21300004: Red_Giant
+    21300006: Ice_Giant
+    21300008: Sun
+    21300010: Gas_Giant
+    21300012: Gas_Planet
+    21300014: Earth_Planet
+    21300016: Water_Planet
+    21300018: Locust_L
+    21300020: Cricket_L
+    21300022: Scarab_M
+    21300024: Mantis_M
+    21300026: Flea_S
+    21300028: Bumblebee_S
+    21300030: Metal_Comet
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 108
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Grey_Asteroid
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 824
+        width: 374
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Brown_Asteroid
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 823
+        width: 355
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Red_Giant
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 594
+        width: 521
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice_Giant
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 607
+        width: 463
+        height: 449
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sun
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 202
+        width: 402
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gas_Giant
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 0
+        width: 459
+        height: 441
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Gas_Planet
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 5
+        width: 338
+        height: 348
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Earth_Planet
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 10
+        width: 370
+        height: 335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Water_Planet
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 10
+        width: 306
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Locust_L
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 479
+        width: 197
+        height: 338
+      alignment: 9
+      pivot: {x: 0.5092536, y: 0.6806798}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cricket_L
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 532
+        width: 172
+        height: 278
+      alignment: 9
+      pivot: {x: 0.46551275, y: 0.62804514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Scarab_M
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 315
+        width: 120
+        height: 205
+      alignment: 9
+      pivot: {x: 0.4929512, y: 0.6774179}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mantis_M
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 325
+        width: 107
+        height: 192
+      alignment: 9
+      pivot: {x: 0.5000001, y: 0.6445427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flea_S
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 368
+        width: 81
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.68798083}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bumblebee_S
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 365
+        width: 83
+        height: 93
+      alignment: 9
+      pivot: {x: 0.50846624, y: 0.56520224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Metal_Comet
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 489
+        width: 225
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
